@@ -24,7 +24,7 @@ At the end of the this hands-on training, students will be able to;
 
 ## Part 1 - Install Java, Maven and Git packages
 
-- Connect to the Jenkins Server .
+- Connect to the Jenkins Server ...
   
 - Install the JDK for Amazon Corretto 17
   
