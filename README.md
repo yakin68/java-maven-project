@@ -8,7 +8,7 @@ At the end of the this hands-on training, students will be able to;
 
 - install and configure Maven,
 
-- create Java and Maven jobs
+- create Java and Maven jobs..
 
 ## Outline
 
